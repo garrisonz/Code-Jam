@@ -17,7 +17,7 @@ solve the practice problem
 
 ./2016/  
  - Travel_Round_B.cpp            -  https://code.google.com/codejam/contest/10214486/dashboard#s=p0
-  solution : 
+  solution :  
 1. build up graph, according data from file.
 2. assuming all cost of path is a single fix number, figure out all vertex's single source shortest path cost from city 1 .
 3. replace the fix path cost with dymatic time cost
